@@ -1,0 +1,76 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "2E740432A50C3B1617410EF7DA043AD6E9B646691A9ABD674E29DEA3AA447931",
+      "size": 3414
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "0E43E5DEF2D07FDE57B8CCE36F2F50CCD37ECE983A44E9918F2BE8B50A11E71A",
+      "size": 5970
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "6407CC7121F2DE192CCEBDEC3F3B01D93405298DA419E3CE0860A53A77BDA0D0",
+      "size": 2132
+    },
+    "static/Mulish-200-1000-italic-cyrillic-ext.woff2": {
+      "name": "static/Mulish-200-1000-italic-cyrillic-ext.woff2",
+      "checksum": "076337138EA618A1F5B94F5596BD223D6A39B155414CE12DEC4D108AF40CC040",
+      "size": 22292
+    },
+    "static/Mulish-200-1000-italic-cyrillic.woff2": {
+      "name": "static/Mulish-200-1000-italic-cyrillic.woff2",
+      "checksum": "4A6DD977094D5F9353326B69E17206D5AF100E1768C4EBF1C83F1F593A2D86DF",
+      "size": 16844
+    },
+    "static/Mulish-200-1000-italic-latin-ext.woff2": {
+      "name": "static/Mulish-200-1000-italic-latin-ext.woff2",
+      "checksum": "E01C00941E29C704146E8FDE40F1D73105B68818283D8D95949289EA444D48C1",
+      "size": 28720
+    },
+    "static/Mulish-200-1000-italic-latin.woff2": {
+      "name": "static/Mulish-200-1000-italic-latin.woff2",
+      "checksum": "8B479610778CEF415158EF2DEEF872C0BDC85BD63F339ECDC1382FABEF4DA407",
+      "size": 32492
+    },
+    "static/Mulish-200-1000-italic-vietnamese.woff2": {
+      "name": "static/Mulish-200-1000-italic-vietnamese.woff2",
+      "checksum": "57A0AA5DF7CBB7BEAD42D2ADEEA7D42128285D15D09B2B9C68CAC3E59075A91A",
+      "size": 11336
+    },
+    "static/Mulish-200-1000-normal-cyrillic-ext.woff2": {
+      "name": "static/Mulish-200-1000-normal-cyrillic-ext.woff2",
+      "checksum": "556E5CBD69BC04DF68B588065ED7A57F7A0286FAE5D8DE239DE33CC81E3CA7D5",
+      "size": 21232
+    },
+    "static/Mulish-200-1000-normal-cyrillic.woff2": {
+      "name": "static/Mulish-200-1000-normal-cyrillic.woff2",
+      "checksum": "85CC62CF3B13C6166FEA632307AFCF5688C0A7239CB79DB6582736FB5413FFE4",
+      "size": 15840
+    },
+    "static/Mulish-200-1000-normal-latin-ext.woff2": {
+      "name": "static/Mulish-200-1000-normal-latin-ext.woff2",
+      "checksum": "33C3CD14EBD072B075D3B9D6DF56DB1EB488783546A1240B261F8B2CCD9DF456",
+      "size": 26168
+    },
+    "static/Mulish-200-1000-normal-latin.woff2": {
+      "name": "static/Mulish-200-1000-normal-latin.woff2",
+      "checksum": "7F0F781820C8DE56BD6699AC9570FF90634DE4EB5CCA7EF4B573BB90619E5A5D",
+      "size": 30096
+    },
+    "static/Mulish-200-1000-normal-vietnamese.woff2": {
+      "name": "static/Mulish-200-1000-normal-vietnamese.woff2",
+      "checksum": "077F560DF1A9F3D8FB3D863CC7F1EE1B39FA1F45F30A55B3B5431E4E3551C48B",
+      "size": 9752
+    }
+  },
+  "zip_url": "https://codeload.github.com/meenukumari28/mulish-font/zip/refs/heads/main",
+  "checksum": "8969142B67053720604632BA7F5BCBB8079E7064FA245300F1363F6649EA3B5F"
+}
